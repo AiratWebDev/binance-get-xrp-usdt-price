@@ -19,4 +19,6 @@
 
 ### Запуск
 
-**`python main.py`**
+```python
+python main.py
+```
